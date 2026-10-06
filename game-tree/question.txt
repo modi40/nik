@@ -1,0 +1,16 @@
+Original Question:
+
+Write a program to implement a Game Tree Representation for a two-player game. [20 marks]
+
+Keywords:
+
+Game Tree Representation
+Game Tree
+Two-Player Game
+Game Representation
+Minimax
+Tree Traversal
+
+Occurrences:
+
+Exam Page/Slip: 2

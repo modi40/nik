@@ -1,0 +1,17 @@
+Original Question:
+
+Write a program to solve the N-Queens Problem using the Backtracking Algorithm. [20 marks]
+
+Keywords:
+
+N-Queens Problem
+N-Queens
+N Queens
+Backtracking Algorithm
+Backtracking
+Chessboard
+Queens
+
+Occurrences:
+
+Exam Page/Slip: 12

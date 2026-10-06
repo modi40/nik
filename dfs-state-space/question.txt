@@ -1,0 +1,16 @@
+Original Question:
+
+Write a program to solve a state-space search problem using DFS. Start vertex - 1 [10 marks]
+
+Keywords:
+
+State Space Search
+DFS
+Depth First Search
+Start Vertex 1
+Vertex 1
+State Space
+
+Occurrences:
+
+Exam Page/Slip: 9

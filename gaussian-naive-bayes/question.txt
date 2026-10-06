@@ -1,0 +1,17 @@
+Original Question:
+
+Write a program to implement Gaussian NB classifier with 3 classes on numeric data, use make_blobs to create a dataset X of 200 sample points in 2D Space, 3 clusters and each cluster spread (SD) over 1.5. For testing (Prediction), use the following values to test the Gaussian NB Classifier. Input (Values) : [-2, 5], [0,0], [6, -0.3] Output : [0 1 1] Print the accuracy score using the accuracy_score() from sklearn.metrics library.. [20 marks]
+
+Keywords:
+
+Gaussian NB
+Gaussian Naive Bayes
+make_blobs
+accuracy_score
+Classification
+2D Space
+Clusters
+
+Occurrences:
+
+Exam Page/Slip: 4

@@ -1,0 +1,18 @@
+Original Question:
+
+Write a program to implement the Best First Search Algorithm using heuristic values to find a path from a start node to a goal node. [10 marks]
+
+Keywords:
+
+Best First Search
+Heuristic Values
+Heuristic
+Greedy Best First Search
+Priority Queue
+Start Node
+Goal Node
+Path
+
+Occurrences:
+
+Exam Page/Slip: 11

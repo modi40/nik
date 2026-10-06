@@ -1,0 +1,17 @@
+Original Question:
+
+Write a program to implement the Forward Chaining inference mechanism. [20 marks]
+
+Keywords:
+
+Forward Chaining
+Inference Mechanism
+Forward Reasoning
+Rules
+Facts
+Knowledge Base
+
+Occurrences:
+
+Exam Page/Slip: 7
+Exam Page/Slip: 14

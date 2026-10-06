@@ -1,0 +1,19 @@
+Original Question:
+
+Write a program to implement the A* Search Algorithm to find the shortest path between a source node and a destination node. Source = V1 Destination = V6 [10 marks / 20 marks]
+
+Keywords:
+
+A* Search Algorithm
+A*
+Shortest Path
+Source
+Destination
+Heuristic
+V1
+V6
+
+Occurrences:
+
+Exam Page/Slip: 1
+Exam Page/Slip: 5

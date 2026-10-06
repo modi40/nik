@@ -1,0 +1,16 @@
+Original Question:
+
+Write a program to calculate and demonstrate the Euclidean Distance between two data points in Machine Learning. The program should accept two input vectors from the user and display the calculated Euclidean Distance. Input : Data Point: 2 3 4 Data Point: 5 7 6 Output : Data Point  : [2, 3, 4] Data Point : [5, 7, 6] Euclidean Distance  = 5.099 [20 marks]
+
+Keywords:
+
+Euclidean Distance
+Data Points
+Vectors
+Distance Formula
+Machine Learning
+5.099
+
+Occurrences:
+
+Exam Page/Slip: 11

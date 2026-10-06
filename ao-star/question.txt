@@ -1,0 +1,17 @@
+Original Question:
+
+Write the program to implement the AO* Algorithm [10 marks]
+
+Keywords:
+
+AO* Algorithm
+AO*
+AO Star
+AND-OR Graph
+Heuristic Search
+Hypergraph
+Cost
+
+Occurrences:
+
+Exam Page/Slip: 14

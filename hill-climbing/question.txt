@@ -1,0 +1,17 @@
+Original Question:
+
+Write a program to demonstrate the Hill Climbing Algorithm for finding the maximum value of a simple objective function. (F(x) = -x^2 + 4x) [10 marks]
+
+Keywords:
+
+Hill Climbing Algorithm
+Hill Climbing
+Objective Function
+Maximum Value
+Optimization
+F(x) = -x^2 + 4x
+
+Occurrences:
+
+Exam Page/Slip: 7
+Exam Page/Slip: 13

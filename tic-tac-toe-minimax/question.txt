@@ -1,0 +1,17 @@
+Original Question:
+
+Write a program to develop a Tic-Tac-Toe Game in which the computer uses the Minimax Algorithm to play optimally. [20 marks]
+
+Keywords:
+
+Tic-Tac-Toe
+Tic Tac Toe
+Minimax Algorithm
+Minimax
+Optimal Play
+Computer Player
+Two-Player Game
+
+Occurrences:
+
+Exam Page/Slip: 5

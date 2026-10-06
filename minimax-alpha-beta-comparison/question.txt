@@ -1,0 +1,18 @@
+Original Question:
+
+Write a program or report that compares Minimax and Alpha-Beta Pruning on the same game tree. [10 marks / 20 marks]
+
+Keywords:
+
+Minimax
+Alpha-Beta Pruning
+Alpha-Beta
+Comparison
+Game Tree
+Node Evaluations
+Pruning Efficiency
+
+Occurrences:
+
+Exam Page/Slip: 6
+Exam Page/Slip: 8

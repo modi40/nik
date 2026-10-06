@@ -1,0 +1,17 @@
+Original Question:
+
+Write a program to implement Predicate Logic using predicates, variables, and quantifier. [20 marks]
+
+Keywords:
+
+Predicate Logic
+Predicates
+Variables
+Quantifier
+Universal Quantifier
+Existential Quantifier
+First Order Logic
+
+Occurrences:
+
+Exam Page/Slip: 4

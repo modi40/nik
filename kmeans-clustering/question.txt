@@ -1,0 +1,18 @@
+Original Question:
+
+Write a program to implement the K-Means Clustering Algorithm for grouping data into clusters. Use the data set provided in country_data.csv. The columns are: country nm, child_mortality, exports, health, imports, income, inflation, life_expectancy, total_fer, gdp. Normalize the data set for KMeans clustering (hint: use SatndardScaler()). Apply KMeans with number of clusters = 3. Use different values for k from 1 to 10, use Elbow method to find the ideal value of 'k'. [20 marks]
+
+Keywords:
+
+K-Means Clustering
+KMeans
+country_data.csv
+StandardScaler
+Elbow Method
+Inertia
+WCSS
+Clusters
+
+Occurrences:
+
+Exam Page/Slip: 10

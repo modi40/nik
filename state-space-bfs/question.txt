@@ -1,0 +1,16 @@
+Original Question:
+
+Write a program to solve a state-space search problem using BFS. Start Vertex = A [10 marks]
+
+Keywords:
+
+State Space Search
+BFS
+Breadth First Search
+Start Vertex A
+State Space
+Vertex A
+
+Occurrences:
+
+Exam Page/Slip: 4

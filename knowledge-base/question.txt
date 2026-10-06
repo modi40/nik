@@ -1,0 +1,17 @@
+Original Question:
+
+Write a program to build a Knowledge Base using logical rules and facts. [20 marks]
+
+Keywords:
+
+Knowledge Base
+Logical Rules
+Facts
+Inference
+Logical Inference
+Tell
+Ask
+
+Occurrences:
+
+Exam Page/Slip: 9

@@ -1,0 +1,17 @@
+Original Question:
+
+Write a program to solve the Tower of Hanoi Problem using state-space representation. [10 marks]
+
+Keywords:
+
+Tower of Hanoi
+State Space Representation
+State Space
+Pegs
+Disks
+Breadth First Search
+Hanoi
+
+Occurrences:
+
+Exam Page/Slip: 12

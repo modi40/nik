@@ -1,0 +1,18 @@
+Original Question:
+
+Write a program to design a Rule-Based Expert System for simple decision-making. [20 marks]
+
+Keywords:
+
+Rule-Based Expert System
+Expert System
+Rule-Based
+Decision Making
+Rules
+Facts
+Inference Engine
+
+Occurrences:
+
+Exam Page/Slip: 6
+Exam Page/Slip: 12

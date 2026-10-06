@@ -1,0 +1,17 @@
+Original Question:
+
+Write a program to implement Alpha-Beta Pruning for optimizing the Minimax search process. [20 marks]
+
+Keywords:
+
+Alpha-Beta Pruning
+Alpha-Beta
+Alpha Beta
+Minimax
+Pruning
+Game Tree
+Optimization
+
+Occurrences:
+
+Exam Page/Slip: 3

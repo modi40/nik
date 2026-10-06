@@ -1,0 +1,19 @@
+Original Question:
+
+Write a program to implement Propositional Logic and evaluate logical expressions using operators such as AND, OR, NOT, and IMPLIES. [20 marks]
+
+Keywords:
+
+Propositional Logic
+Logical Expressions
+Truth Table
+AND
+OR
+NOT
+IMPLIES
+Boolean Logic
+
+Occurrences:
+
+Exam Page/Slip: 3
+Exam Page/Slip: 11

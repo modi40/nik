@@ -1,0 +1,17 @@
+Original Question:
+
+Write a program to solve the 4-Puzzle Problem using the A* Search Algorithm. [10 marks]
+
+Keywords:
+
+4-Puzzle Problem
+4-Puzzle
+Four Puzzle
+A* Search Algorithm
+A*
+Manhattan Distance
+Sliding Tile
+
+Occurrences:
+
+Exam Page/Slip: 6

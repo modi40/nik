@@ -1,0 +1,19 @@
+Original Question:
+
+Write Python program to demonstrate the following objective functions used in clustering algorithms. (Any 2 of the following) 1. K-Means Inertia (Within-Cluster Sum of Squares – WCSS) 2. Gaussian Mixture Model (GMM) Log-Likelihood 3. Silhouette Coefficient 4. Davies-Bouldin Index Using matplotlib to plot the Elbow curve, Silhouette scores, and Davies-Bouldin scores across different values of K (on x-axis). [20 marks]
+
+Keywords:
+
+Clustering Objective Functions
+Clustering
+K-Means Inertia
+WCSS
+Silhouette Coefficient
+Davies-Bouldin Index
+GMM Log-Likelihood
+Elbow Curve
+Matplotlib
+
+Occurrences:
+
+Exam Page/Slip: 9

@@ -1,0 +1,18 @@
+Original Question:
+
+Write a program to implement the Minimax Algorithm for a two-player game. [20 marks]
+
+Keywords:
+
+Minimax Algorithm
+Minimax
+Two-Player Game
+Game Tree
+Max
+Min
+Payoff
+Evaluation
+
+Occurrences:
+
+Exam Page/Slip: 14

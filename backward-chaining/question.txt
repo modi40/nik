@@ -1,0 +1,18 @@
+Original Question:
+
+Write a program to implement the Backward Chaining inference mechanism. [20 marks]
+
+Keywords:
+
+Backward Chaining
+Inference Mechanism
+Backward Reasoning
+Goal Driven
+Rules
+Facts
+Knowledge Base
+
+Occurrences:
+
+Exam Page/Slip: 8
+Exam Page/Slip: 10

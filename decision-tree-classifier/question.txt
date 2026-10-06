@@ -1,0 +1,19 @@
+Original Question:
+
+Write a program to implement the Decision Tree Classifier for a classification problem. Use the dataset provided with columns: Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age, Outcome(is the class label / target variable: 0 or 1). Split the dataset int 70:30 – train:test. Evaluate the model using accuracy_score(). Optimize the models performance by tuning the criterion (default is GINI, use entropy) and max_depth (=2, 3 or 4 ) parameter of the DT Classifier. [20 marks]
+
+Keywords:
+
+Decision Tree Classifier
+Decision Tree
+criterion
+GINI
+entropy
+max_depth
+accuracy_score
+Diabetes
+Classification
+
+Occurrences:
+
+Exam Page/Slip: 7

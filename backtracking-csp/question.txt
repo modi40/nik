@@ -1,0 +1,17 @@
+Original Question:
+
+Write a program to implement the Backtracking Algorithm for solving a constraint satisfaction problem. [20 marks]
+
+Keywords:
+
+Backtracking Algorithm
+Backtracking
+Constraint Satisfaction Problem
+CSP
+Constraints
+Variables
+Domains
+
+Occurrences:
+
+Exam Page/Slip: 2

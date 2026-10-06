@@ -1,0 +1,16 @@
+Original Question:
+
+Write a program to implement Depth Limited Search (DLS). [10 marks]
+
+Keywords:
+
+Depth Limited Search
+DLS
+Depth Limit
+Cutoff
+Graph Search
+Tree Search
+
+Occurrences:
+
+Exam Page/Slip: 10

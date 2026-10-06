@@ -1,0 +1,19 @@
+Original Question:
+
+Write a program to solve the Map Coloring Problem using the Constraint Satisfaction Problem (CSP) approach. [20 marks]
+
+Keywords:
+
+Map Coloring
+CSP
+Constraint Satisfaction Problem
+Constraint
+Coloring
+Backtracking
+Regions
+
+Occurrences:
+
+Exam Page/Slip: 1
+Exam Page/Slip: 5
+Exam Page/Slip: 13

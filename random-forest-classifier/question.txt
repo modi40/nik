@@ -1,0 +1,18 @@
+Original Question:
+
+Write a program to implement the Random Forest Classifier for classification tasks. Use the dataset provided: car_evaluation.csv (7 columns/features and 10 rows). All the features are of categorical data type, given by buying, maint, doors, persons, lug_boot, safety and class. Class is the target variable. Rename column names as ['buying', 'maint', 'doors', 'persons', 'lug_boot', 'safety', 'class']. Check the frequency counts of categorical variables. Check for missing values. Drop 'class' feature to create X and let y = 'class' variable. Split the dataset as 67:33% - train:test. Encode all the categorical variables. Implement the RF classifier with default parameters. Display the accuracy of the RF classifier. [20 marks]
+
+Keywords:
+
+Random Forest Classifier
+Random Forest
+car_evaluation.csv
+Categorical Variables
+OrdinalEncoder
+accuracy_score
+Frequency Counts
+Missing Values
+
+Occurrences:
+
+Exam Page/Slip: 8

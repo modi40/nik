@@ -1,0 +1,17 @@
+Original Question:
+
+Write a program to implement BFS traversal for a graph. [10 marks]
+
+Keywords:
+
+BFS Traversal
+Breadth First Search
+BFS
+Graph
+Graph Traversal
+Adjacency List
+Queue
+
+Occurrences:
+
+Exam Page/Slip: 3

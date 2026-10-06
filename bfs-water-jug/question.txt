@@ -1,0 +1,16 @@
+Original Question:
+
+Write a program to solve the Water Jug Problem using BFS. [10 marks]
+
+Keywords:
+
+Water Jug Problem
+BFS
+Breadth First Search
+Water Jug
+Capacities
+State Space
+
+Occurrences:
+
+Exam Page/Slip: 2

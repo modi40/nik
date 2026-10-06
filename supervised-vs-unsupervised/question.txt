@@ -1,0 +1,17 @@
+Original Question:
+
+Write a program or report to compare Supervised Learning and Unsupervised Learning techniques. [20 marks]
+
+Keywords:
+
+Supervised Learning
+Unsupervised Learning
+Comparison
+Supervised vs Unsupervised
+Machine Learning
+Classification
+Clustering
+
+Occurrences:
+
+Exam Page/Slip: 13

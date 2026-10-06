@@ -1,0 +1,17 @@
+Original Question:
+
+Write a program to implement Breadth First Search (BFS) for the Monkey Banana Problem. [10 marks]
+
+Keywords:
+
+Monkey Banana Problem
+Breadth First Search
+BFS
+Monkey
+Banana
+State Space Search
+Box
+
+Occurrences:
+
+Exam Page/Slip: 1
